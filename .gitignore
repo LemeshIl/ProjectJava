@@ -3,12 +3,11 @@
 # Package Files #
 *.jar
 *.war
-*.log
 
 # gwt caches and compiled units #
 war/gwt_bree/
 gwt-unitCache/
-
+zk-single-kafka-single/
 # boilerplate generated classes #
 .apt_generated/
 
