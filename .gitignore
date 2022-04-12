@@ -7,7 +7,8 @@
 # gwt caches and compiled units #
 war/gwt_bree/
 gwt-unitCache/
-zk-single-kafka-single/
+/consumerService/zk-single-kafka-single/
+/producerService/zk-single-kafka-single/
 # boilerplate generated classes #
 .apt_generated/
 
